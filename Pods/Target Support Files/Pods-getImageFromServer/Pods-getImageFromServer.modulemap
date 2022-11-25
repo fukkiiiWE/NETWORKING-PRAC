@@ -1,0 +1,6 @@
+framework module Pods_getImageFromServer {
+  umbrella header "Pods-getImageFromServer-umbrella.h"
+
+  export *
+  module * { export * }
+}
